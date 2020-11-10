@@ -1,0 +1,28 @@
+_repo: The-Fairy-Latchkey_63535
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Horsfall, Magdalene
+    birthdate: 1884
+    deathdate: 1936
+    gutenberg_agent_id: '52498'
+    url: http://www.gutenberg.org/2009/agents/52498
+description: ''
+gutenberg_issued: '2020-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63535'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Motherless families -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Fairies -- Juvenile fiction'
+- !lcsh 'Sponsors -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Fathers and daughters -- Juvenile fiction'
+- GITenberg
+title: The Fairy Latchkey
+url: http://www.gutenberg.org/ebooks/63535
